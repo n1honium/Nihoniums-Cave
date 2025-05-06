@@ -1,0 +1,1 @@
+javascript:(function()%20%7B%20%20%20%20%20var%20iframe%20=%20document.createElement('iframe');%20%20%20%20%20iframe.src%20=%20%22https://www.boomplay.com/embed/59498583/COL%22;%20%20%20%20%20iframe.width%20=%20%22300%22;%20%20%20%20%20iframe.height%20=%20%22250%22;%20%20%20%20%20iframe.frameBorder%20=%20%220%22;%20%20%20%20%20document.body.appendChild(iframe);%20%7D)();
